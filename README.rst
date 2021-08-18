@@ -189,7 +189,7 @@ Below is a list of the methods currently implemented in this module.
 
 The different algorithms are presented in the sphinx-gallery_.
 
-.. _sphinx-gallery: https://imbalanced-learn.readthedocs.io/en/stable/auto_examples/index.html
+.. _sphinx-gallery: https://imbalanced-learn.org/stable/user_guide.html
 
 
 References:
